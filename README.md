@@ -2,7 +2,7 @@
 
 # Whatsapp in Sidebar
 
-A Firefox WebExtension to display [Whatsapp](https://web.whatsapp.com/)> in the sidebar.
+A Firefox WebExtension to display [Whatsapp](https://web.whatsapp.com/) in the sidebar.
 
 This extension adds a new section to the Firefox sidebar which contains the Whatsapp web app.
 
