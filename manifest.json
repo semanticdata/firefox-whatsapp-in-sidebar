@@ -1,0 +1,40 @@
+{
+
+    "manifest_version": 2,
+    "name": "Whatsapp in Sidebar",
+    "description": "Displays Whatsapp in the sidebar",
+    "version": "1.0",
+    "applications": {
+        "gecko": {
+          "strict_min_version": "60.0"
+        }
+    },
+
+    "options_ui": {
+      "page": "options/options.html",
+      "browser_style": true
+    },
+
+    "sidebar_action": {
+        "default_icon": {
+            "48": "icons/icon1_48.png",
+            "96": "icons/icon1_96.png"
+          },
+        "default_title": "Whatsapp",
+        "default_panel": "sidebar/panel.html"
+    },
+
+    "icons": {
+        "48": "icons/icon2_48.png",
+        "96": "icons/icon2_96.png"
+      },
+
+    "commands": {
+        "_execute_sidebar_action": {
+            "suggested_key": {
+                "default": "Alt+Shift+7"
+            },
+            "description": "Toggle the Whatsapp sidebar."
+        }
+    }
+}
