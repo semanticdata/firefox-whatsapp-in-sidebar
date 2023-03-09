@@ -3,7 +3,7 @@
     "manifest_version": 2,
     "name": "Whatsapp in Sidebar",
     "description": "Displays Whatsapp in the sidebar",
-    "version": "1.1",
+    "version": "1.1.1",
     "background": {
       "scripts": ["background.js"]
     },
@@ -20,16 +20,16 @@
 
     "sidebar_action": {
         "default_icon": {
-            "48": "icons/icon1_48.png",
-            "96": "icons/icon1_96.png"
+            "48": "whatsapp-favicon.png",
+            "96": "whatsapp-favicon.png"
           },
         "default_title": "Whatsapp",
         "default_panel": "sidebar/panel.html"
     },
 
     "icons": {
-        "48": "icons/icon1_48.png",
-        "96": "icons/icon1_96.png"
+        "48": "whatsapp-favicon.png",
+        "96": "whatsapp-favicon.png"
       },
 
     "commands": {
