@@ -1,4 +1,4 @@
-![image](/icons/icon1_96.png)
+![image](/icons/48x48.png)
 
 # Whatsapp in Sidebar
 
