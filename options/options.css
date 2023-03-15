@@ -1,0 +1,46 @@
+html {
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+    /* background-color: #282a36; */
+}
+
+body {
+    max-body-width: 48rem;
+    padding: 0.5em;
+}
+
+label {
+    /* color: #ff79c6; */
+    font-size: 1.15rem;
+    font-weight: 600;
+    padding-bottom: 5rem;
+}
+
+button:hover {
+    background: #b5b5b5;
+}
+
+button,
+dialog,
+select,
+textarea {
+    border: 1px solid #dbdbdb;
+    border-radius: 0.25rem;
+    border-width: 1px;
+    padding: 0.25rem;
+    margin-top: 0.25rem;
+}
+
+input {
+    padding: 0.25rem;
+    padding-right: 5rem;
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+}
+
+::selection {
+	/* Set background color for selected text */
+	/* background: #7928CA; */
+	background: #165b67;
+	color: #FFFFFF;
+}
+
