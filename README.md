@@ -2,6 +2,8 @@
 
 # Whatsapp in Sidebar
 
+## Notice: this addon is ***NOT*** currently published at addons.mozilla.org
+
 A Firefox WebExtension to display [Whatsapp](https://web.whatsapp.com/) in the sidebar. This extension adds a new section to the Firefox sidebar which contains the Whatsapp web app.
 
 Press `Alt+Shift+7` to open. This shortcut can be changed by going to Add-ons -> Whatsapp in Sidebar -> Options.
