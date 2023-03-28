@@ -32,4 +32,4 @@ This WebExtension is an independent project and not affiliated with Meta Platfor
 
 ## Notice #2
 
-These disclaimers were formatted with the goal to make abundantly clear how stupid it is to assume that this addon has any material connections to WhatApp/Facebook. Oh, I'm sorry, I remembered it's Meta Platforms, Inc. 🙄
+These disclaimers were formatted with the goal of making it abundantly clear, how stupid it is to assume that this addon has any material connections to WhatApp/Facebook. Oh, I'm sorry, I remembered it's Meta Platforms, Inc. 🙄
