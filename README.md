@@ -8,9 +8,9 @@ Press `Alt+Shift+7` to open. This shortcut can be changed by going to Add-ons ->
 
 ## Notice
 
-Due to
+Due to the nature of how stupid we humans are the following disclaimers are being made:
 
-## Disclaimer #1
+### Disclaimer #1
 
 This Add-on is primarily for personal use, however feel free to use it and report any issues you encounter.
 
