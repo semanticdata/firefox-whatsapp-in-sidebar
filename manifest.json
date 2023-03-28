@@ -23,7 +23,7 @@
             "48": "icons/48x48.png",
             "96": "icons/96x96.png"
           },
-        "default_title": "Whatsapp",
+        "default_title": "WhatsApp",
         "default_panel": "sidebar/panel.html"
     },
 
@@ -37,7 +37,7 @@
             "suggested_key": {
                 "default": "Alt+Shift+7"
             },
-            "description": "Toggle the Whatsapp sidebar."
+            "description": "Toggle Whatsapp in the sidebar."
         }
     },
     "browser_action": {
