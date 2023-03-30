@@ -2,7 +2,10 @@
 
 # Whatsapp in Sidebar
 
-## Notice: this addon is ***NOT*** currently published at addons.mozilla.org
+## _This repo is not actively maintained_
+
+## Notice
+This addon is ***NOT*** currently published at addons.mozilla.org - I received a DMCA takedown notice from Facebook/WhatsApp/Meta. I suspect a disclaimer in the description would suffice, since many other WhatsApp Firefox extensions remain public with only a small disclaimer in their description. Nevertheless, I'm not risking my Firefox account to submit the new version with a disclaimer within the description. Feel free to fork/build your own version.
 
 A Firefox WebExtension to display [Whatsapp](https://web.whatsapp.com/) in the sidebar. This extension adds a new section to the Firefox sidebar which contains the Whatsapp web app.
 
