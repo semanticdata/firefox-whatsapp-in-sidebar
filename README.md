@@ -1,16 +1,14 @@
 ![image](/icons/48x48.png)
 
-# Whatsapp in Sidebar
+# WhatsApp in Sidebar
 
-## _This repo is not actively maintained_
+A Firefox WebExtension to open WhatsApp Web within the Firefox sidebar. This extension adds a new section to the sidebar which contains the WhatsApp web app. It also adds a shortcut, and a button toggle within the toolbar.
 
-## Notice
-This addon is ***NOT*** currently published at addons.mozilla.org - I received a DMCA takedown notice from Facebook/WhatsApp/Meta. I suspect a disclaimer in the description would suffice, since many other WhatsApp Firefox extensions remain public with only a small disclaimer in their description. Nevertheless, I'm not risking my Firefox account to submit the new version with a disclaimer within the description. Feel free to fork/build your own version.
+<b>How to Use</b><ol><li>
+Toggle the sidebar by pressing Alt+Shift+W. This shortcut can be changed by going to Add-ons -> WhatsApp in Sidebar -> Options.</li>
+<li>If you prefer buttons over shortcuts, there is a toolbar button you can press to toggle the sidebar.</li></ol>
+<b>How to Unlock Firefox Sidebar Width</b>
+The sidebar's width is <i>locked by default</i> in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at <a href=https://stressed.dev/unlock-max-width-of-firefoxs-sidebar/>my blog</a>.
 
-A Firefox WebExtension to display [Whatsapp](https://web.whatsapp.com/) in the sidebar. This extension adds a new section to the Firefox sidebar which contains the Whatsapp web app.
-
-Press `Alt+Shift+7` to open. This shortcut can be changed by going to Add-ons -> Whatsapp in Sidebar -> Options.
-
-## Disclaimer
-
-This Add-on is primarily for personal use; a personal project if you will. I'm just trying to use WhatsApp on the Firefox sidebar. This add-on just launches their webapp in the sidebar. This extension is an independent project, has no relationship, and is not affiliated to WhatsApp in any way.
+<b>Disclaimer</b>
+This Add-on is primarily for personal use; a personal project if you will. I'm just trying to use WhatsApp inside the Firefox sidebar instead of having a pinned tab with it open. This add-on just launches their webapp in the sidebar. <b>This extension is an independent project, has no relationship, and is not affiliated to WhatsApp in any way. WhatsApp™ is a registered trademark of Meta.</b>

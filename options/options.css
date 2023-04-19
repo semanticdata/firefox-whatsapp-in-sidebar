@@ -1,6 +1,5 @@
 html {
     font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-    /* background-color: #282a36; */
 }
 
 body {
@@ -9,7 +8,6 @@ body {
 }
 
 label {
-    /* color: #ff79c6; */
     font-size: 1.15rem;
     font-weight: 600;
     padding-bottom: 5rem;
@@ -38,9 +36,6 @@ input {
 }
 
 ::selection {
-	/* Set background color for selected text */
-	/* background: #7928CA; */
-	background: #165b67;
-	color: #FFFFFF;
+    background: #165b67;
+    color: #FFFFFF;
 }
-
