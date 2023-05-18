@@ -1,5 +1,7 @@
 <h1 align=center><img src="/icons/48x48.png" /> WhatsApp in Sidebar</h1>
 
+>⚠ The extension is currently unpublished from Firefox Addons site. Working on new logos. ⚠
+
 <p align=center>
 <img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/%7B34a257f3-adfe-460d-b6ca-7dd18d18506b%7D?style=for-the-badge">
 <img src="https://img.shields.io/amo/rating/%7B34a257f3-adfe-460d-b6ca-7dd18d18506b%7D?style=for-the-badge" />
