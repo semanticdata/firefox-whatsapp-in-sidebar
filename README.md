@@ -1,14 +1,12 @@
-<h1 align=center><img src="/icons/48x48.png" /> WhatsApp in Sidebar</h1>
-
-<p align=center>⚠ The extension is currently unpublished from Firefox Addons site. I'm working on new logos to avoid copyright. ⚠</p>
-
-<p align=center>
-<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/%7B34a257f3-adfe-460d-b6ca-7dd18d18506b%7D?style=for-the-badge">
-<img src="https://img.shields.io/amo/rating/%7B34a257f3-adfe-460d-b6ca-7dd18d18506b%7D?style=for-the-badge" />
-<img src="https://img.shields.io/amo/dw/%7B34a257f3-adfe-460d-b6ca-7dd18d18506b%7D?style=for-the-badge" />
-<img src="https://img.shields.io/amo/users/%7B34a257f3-adfe-460d-b6ca-7dd18d18506b%7D?style=for-the-badge" />
-<img src="https://img.shields.io/github/license/datastring/firefox-telegram-in-sidebar?style=for-the-badge" />
+<p align=right>
+<img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}">
+<img src="https://img.shields.io/amo/rating/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}" />
+<img src="https://img.shields.io/amo/dw/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}" />
+<img src="https://img.shields.io/amo/users/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a} " />
+<img src="https://img.shields.io/github/license/datastring/firefox-whatsapp-in-sidebar" />
 </p>
+
+# ![icon](/icons/48x48.png) WhatsApp in Sidebar
 
 A Firefox WebExtension to open WhatsApp Web within the Firefox sidebar. This extension adds a new section to the sidebar which contains the WhatsApp web app. It also adds a shortcut, and a button toggle within the toolbar.
 
@@ -19,8 +17,8 @@ A Firefox WebExtension to open WhatsApp Web within the Firefox sidebar. This ext
 
 ## How to Unlock Firefox Sidebar Width
 
-The sidebar's width is *locked by default* in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my blog](https://stressed.dev/unlock-max-width-of-firefoxs-sidebar/).
+The sidebar's width is *locked by default* in Firefox. Unfortunately, the sidebar is very restrictive and I can only do so much to enhance the functionality of this extension. I put together a step-by-step guide on how to unlock it over at [my website](https://forgetful.dev/guides/unlock-firefox-sidebar/).
 
 ## Disclaimer
 
-This Add-on is primarily for personal use; a personal project if you will. I'm just trying to use WhatsApp inside the Firefox sidebar instead of having a pinned tab with it open. This add-on just launches their webapp in the sidebar. ***This extension is an independent project, has no relationship, and is not affiliated to WhatsApp in any way. WhatsApp™ is a registered trademark of Meta.***
+This Add-on is primarily for personal use; a personal project if you will. I'm just trying to use WhatsApp inside the Firefox sidebar instead of having a pinned tab with it open. This add-on just launches their webapp in the sidebar. This extension is an independent project, has no relationship, and is not affiliated to WhatsApp in any way. WhatsApp™ is a registered trademark of Meta.
