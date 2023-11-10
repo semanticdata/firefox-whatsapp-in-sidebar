@@ -1,12 +1,12 @@
-<p align=right>
+<h1 align=center><img src="./icons/48x48.png" width="64" height="64" /> WhatsApp in Sidebar</h1>
+
+<p align=center>
 <img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}">
 <img src="https://img.shields.io/amo/rating/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}" />
 <img src="https://img.shields.io/amo/dw/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}" />
 <img src="https://img.shields.io/amo/users/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a} " />
 <img src="https://img.shields.io/github/license/datastring/firefox-whatsapp-in-sidebar" />
 </p>
-
-# ![icon](/icons/48x48.png) WhatsApp in Sidebar
 
 A Firefox WebExtension to open WhatsApp Web within the Firefox sidebar. This extension adds a new section to the sidebar which contains the WhatsApp web app. It also adds a shortcut, and a button toggle within the toolbar.
 
