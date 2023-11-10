@@ -1,11 +1,11 @@
-const sidebarToggle = '_execute_sidebar_action';
+const sidebarToggle = "_execute_sidebar_action";
 
 // Update UI and set value of textbox
 async function updateUI() {
   let commands = await browser.commands.getAll();
   for (command of commands) {
     if (command.name === sidebarToggle) {
-      document.querySelector('#shortcut').value = command.shortcut;
+      document.querySelector("#shortcut").value = command.shortcut;
     }
   }
 }
@@ -14,7 +14,7 @@ async function updateUI() {
 async function updateShortcut() {
   await browser.commands.update({
     name: sidebarToggle,
-    shortcut: document.querySelector('#shortcut').value
+    shortcut: document.querySelector("#shortcut").value,
   });
 }
 
@@ -25,8 +25,8 @@ async function resetShortcut() {
 }
 
 // Update UI on page load
-document.addEventListener('DOMContentLoaded', updateUI);
+document.addEventListener("DOMContentLoaded", updateUI);
 
 // Act on update and reset buttons
-document.querySelector('#update').addEventListener('click', updateShortcut)
-document.querySelector('#reset').addEventListener('click', resetShortcut)
+document.querySelector("#update").addEventListener("click", updateShortcut);
+document.querySelector("#reset").addEventListener("click", resetShortcut);
