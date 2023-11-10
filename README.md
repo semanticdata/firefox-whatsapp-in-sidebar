@@ -4,7 +4,7 @@
 <img alt="Mozilla Add-on" src="https://img.shields.io/amo/v/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}">
 <img src="https://img.shields.io/amo/rating/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}" />
 <img src="https://img.shields.io/amo/dw/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}" />
-<img src="https://img.shields.io/amo/users/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a} " />
+<img src="https://img.shields.io/amo/users/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a}" />
 <img src="https://img.shields.io/github/license/datastring/firefox-whatsapp-in-sidebar" />
 </p>
 
