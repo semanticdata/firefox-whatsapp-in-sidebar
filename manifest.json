@@ -2,13 +2,15 @@
   "manifest_version": 2,
   "name": "WhatsApp in Sidebar",
   "description": "Displays WhatsApp in the Sidebar",
-  "version": "2.0",
+  "version": "2.1",
   "background": {
-    "scripts": ["background.js"]
+    "scripts": [
+      "background.js"
+    ]
   },
   "browser_specific_settings": {
     "gecko": {
-      "strict_min_version": "73.0"
+      "strict_min_version": "100.0"
     }
   },
   "options_ui": {

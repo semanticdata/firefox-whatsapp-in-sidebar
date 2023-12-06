@@ -1,42 +1,48 @@
-html {
-    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
-    background-color: #282a36;
+* {
+    transition: all 750ms;
+    text-align: center;
+    overflow-y: hidden !important;
 }
 
-body {
-    max-body-width: 48rem;
-    padding: 0.5em;
+section {
+    padding-top: 1rem !important;
 }
 
-label {
-    font-size: 1.15rem;
-    font-weight: 600;
-    padding-bottom: 5rem;
+h1 {
+    line-height: 1.5 !important;
 }
 
-button:hover {
-    background: #b5b5b5;
-}
-
-button,
-dialog,
-select,
-textarea {
-    border: 1px solid #dbdbdb;
-    border-radius: 0.25rem;
-    border-width: 1px;
-    padding: 0.25rem;
-    margin-top: 0.25rem;
+p {
+    padding-top: 4rem;
 }
 
 input {
-    padding: 0.25rem;
-    padding-right: 5rem;
-    margin-top: 0.25rem;
-    margin-bottom: 0.25rem;
+    margin: 0.5rem 0;
+    max-width: 10rem !important;
+}
+
+input,
+button {
+    border-radius: 5px !important;
+}
+
+.site-author {
+    color: rebeccapurple;
+}
+
+.site-author:hover {
+    color: red;
+}
+
+.fa-heart {
+    color: rebeccapurple;
+}
+
+.fa-heart:hover {
+    color: red;
 }
 
 ::selection {
-    background: #165b67;
-    color: #FFFFFF;
+    background: rebeccapurple;
+    color: #ffffff;
 }
