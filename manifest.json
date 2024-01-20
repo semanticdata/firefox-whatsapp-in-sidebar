@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "WhatsApp in Sidebar",
   "description": "Displays WhatsApp in the Sidebar",
-  "version": "2.1",
+  "version": "2.1.1",
   "background": {
     "scripts": [
       "background.js"
