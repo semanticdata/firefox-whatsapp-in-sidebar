@@ -8,6 +8,8 @@
 
 A Firefox extension to open WhatsApp Web within the Firefox sidebar. This extension adds a new section to the sidebar which contains the WhatsApp web app. It also adds a shortcut, and a button toggle within the toolbar.
 
+[![Get the Addon](https://raw.githubusercontent.com/semanticdata/text-revealer-firefox-extension/master/firefox.png)](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-in-sidebar/)
+
 ## Usage
 
 1. Toggle the sidebar by pressing _`Alt+Shift+W`_. This shortcut can be changed by going to _`Add-ons` → `WhatsApp in Sidebar` → `Options`_.
