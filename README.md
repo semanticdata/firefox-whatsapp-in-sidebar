@@ -4,7 +4,7 @@
 ![Add-on rating](https://img.shields.io/amo/rating/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a})
 ![Add-on downloads](https://img.shields.io/amo/dw/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a})
 ![Add-on users](https://img.shields.io/amo/users/{2b38cb05-9cff-44a7-b9f1-7cc575afab8a})
-![License](https://img.shields.io/github/license/semanticdata/firefox-new-tab-notes)
+![License](https://img.shields.io/github/license/semanticdata/firefox-whatsapp-in-sidebar)
 
 A Firefox extension to open WhatsApp Web within the Firefox sidebar. This extension adds a new section to the sidebar which contains the WhatsApp web app. It also adds a shortcut, and a button toggle within the toolbar.
 
