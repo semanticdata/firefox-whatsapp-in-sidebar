@@ -22,7 +22,7 @@
       "96": "src/icons/96x96.png"
     },
     "default_title": "WhatsApp",
-    "default_panel": "sidebar/panel.html"
+    "default_panel": "src/sidebar/panel.html"
   },
   "icons": {
     "48": "src/icons/48x48.png",
